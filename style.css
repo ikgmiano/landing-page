@@ -167,3 +167,10 @@ li {
   border: solid 2px #F9FAF8;
   border-radius: 8px;
 }
+
+footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  text-align: center;
+  padding: 32px 0;
+}
