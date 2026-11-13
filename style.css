@@ -81,3 +81,31 @@ li {
   justify-content: center;
   align-items: center;
 }
+
+.section.two {
+  text-align: center;
+  padding: 32px 0 100px;
+}
+
+.section-two-header {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+  margin-bottom: 40px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.card {
+  width: 150px;
+  color: #6d747d;
+}
+
+.card-image {
+  border: solid 4px #3882F6;
+  border-radius: 16px;
+}
