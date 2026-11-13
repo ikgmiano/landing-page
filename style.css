@@ -109,3 +109,27 @@ li {
   border: solid 4px #3882F6;
   border-radius: 16px;
 }
+
+.section.three {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  padding: 100px 0;
+}
+
+.quote {
+  width: 830px;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  margin: 0 auto;
+  
+}
+
+.quote-author {
+  width: 830px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  margin: 0 auto;
+  padding-right: 50px;
+}
